@@ -55,7 +55,17 @@ fragmentオプションをつけたもの一つのみがスライド内容の場
 <h2 class="fragment">Hello, World!</h2>
 <h2>Hello, World!</h2>
 ---?color=#040000
-@box[bg-gold](ボックス)
+@box[bg-gold](
+  ```java
+
+public class Main{
+  public static void main(String[] args){
+    System.out.println("Hello World")
+  }
+}
+
+```
+)
 ---?color=#040000
 ```java
 
