@@ -57,6 +57,15 @@ fragmentオプションをつけたもの一つのみがスライド内容の場
 ---?color=#040000
 @box[bg-gold](@box[bg-gold]ってやると、こんな感じのボックスで囲まれたテキストが生成される)
 ---?color=#040000
+
+```java
+public class Main{
+  public static void main(String[] args){
+    System.out.println("Hello World")
+  }
+}
+```
+
 ---?color=#040000
 ---?color=#040000
 ---?color=#040000
