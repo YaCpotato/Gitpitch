@@ -57,7 +57,15 @@ fragmentオプションをつけたもの一つのみがスライド内容の場
 ---?color=#040000
 @box[bg-gold](ボックス)
 ---?color=#040000
-@code[java](Main.java)
+```java
+
+public class Main{
+  public static void main(String[] args){
+    System.out.println("Hello World")
+  }
+}
+
+```
 ---?color=#040000
 ---?color=#040000
 ---?color=#040000
